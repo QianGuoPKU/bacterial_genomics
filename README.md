@@ -1,1 +1,3 @@
-# bacterial_genomics
+# Bacterial_Genomics
+
+Bacterial Genomics Analyzing Scripts
