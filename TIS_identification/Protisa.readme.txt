@@ -1,0 +1,13 @@
+脚本的参数中涉及的文件名的说明
+1. /data/qguo/projects/baoman/single/annotation_on_scaffolds/Protisa/chblist是一个样本名列表
+比如：
+ICU_BP_190304
+2. /data/qguo/projects/baoman/single/annotation_on_scaffolds/all_prokka prokka的输出文件夹
+3. /data/qguo/projects/baoman/single/annotation_on_scaffolds/Protisa/preparenew/gff 待输出的文件夹，注意：参数文件名中带annotation_on_scaffolds/Protisa/的均为输出文件
+另外需要注意，前7个脚本用于鉴定每个基因的翻译起始位点；而8.similar.py用于计算duplicated genes之间的翻译起始位点motif的相似性，只有在做duplication分析的时候才会用到。
+
+
+
+
+
+
